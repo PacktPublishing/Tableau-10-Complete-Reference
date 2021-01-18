@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Course for only $5 on PacktPub.com](https://www.packtpub.com/product/tableau-10-complete-reference/9781789957082)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Tableau 10 Complete Reference
 Graphical presentation of data enables us to easily understand complex data sets. Tableau 10 Complete Reference provides easy-to-follow recipes with several use cases and real-world business scenarios to get you up and running with Tableau 10.
 
