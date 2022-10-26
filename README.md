@@ -30,3 +30,7 @@ https://goo.gl/wJzfDO
 * iMac / MacBook 2009 or newer
 * OS X 10.10 or newer
 * 1.5 GB free disk space
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789957082">https://packt.link/free-ebook/9781789957082 </a> </p>
