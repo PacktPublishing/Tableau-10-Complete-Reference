@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781789957082)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Tableau 10 Complete Reference
 Graphical presentation of data enables us to easily understand complex data sets. Tableau 10 Complete Reference provides easy-to-follow recipes with several use cases and real-world business scenarios to get you up and running with Tableau 10.
 
